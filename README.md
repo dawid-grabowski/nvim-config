@@ -4,22 +4,30 @@
 
 ## Description
 
-> Basic files needed to have your nvim setted up nicely and cozy for your programming sessions.
+Basic files needed to have your nvim setted up nicely and cozy for your programming sessions.
 
 ## Installation - run these commands in your terminal
 
 ##### 1. Go into your nvim folder
 
-### `cd ~/.config/nvim`
+```zsh
+cd ~/.config/nvim
+```
 
 ##### 2. Clone this repo
 
-### `git clone https://github.com/dawid-grabowski/nvim-config.git`
+```zsh
+git clone https://github.com/dawid-grabowski/nvim-config.git
+```
 
 ##### 3. Go into your init.vim
 
-### `nvim init.vim`
+```zsh
+nvim init.vim
+```
 
 ##### 3. Run vim-plug
 
-### `:PlugInstall`
+```zsh
+:PlugInstall
+```
